@@ -1,0 +1,64 @@
+{
+  "projet": "detection",
+  "donnees": "Penn-Fudan",
+  "url_donnees": "https://www.cis.upenn.edu/~jshi/ped_html/PennFudanPed.zip",
+  "sha256_archive": "9095a9613c95586f1c7f2a327d454833d16e0f5e17e5f83d35027ffd315b48e2",
+  "n_images": 20,
+  "n_instances": 53,
+  "graine": 42,
+  "selection": "Tirage sans remise, numpy.default_rng, puis ordre alphabétique",
+  "modele": "FasterRCNN",
+  "poids": "FasterRCNN_ResNet50_FPN_Weights.COCO_V1",
+  "url_poids": "https://download.pytorch.org/models/fasterrcnn_resnet50_fpn_coco-258fb6c6.pth",
+  "sha256_poids": "258fb6c638b15964ddcdd1ae0748c5eef1be9e732750120cc857feed3faac384",
+  "appareil": "cpu",
+  "threads": 2,
+  "seuil_confiance": 0.5,
+  "seuil_minimum_modele_pour_ap": 0.001,
+  "max_detections_modele": 100,
+  "redimensionnement": {
+    "min_size": [
+      800
+    ],
+    "max_size": 1333
+  },
+  "coco": {
+    "AP_50_95": 0.8120532100874893,
+    "AP_50": 0.9664083194874014,
+    "AP_75": 0.9408788405657931,
+    "AP_petit": 0.7999999999999999,
+    "AP_moyen": 0.4668033946251768,
+    "AP_grand": 0.8355641539475843,
+    "AR_max1": 0.3339622641509434,
+    "AR_max10": 0.8716981132075471,
+    "AR_max100": 0.8716981132075471,
+    "AR_petit": 0.8,
+    "AR_moyen": 0.8166666666666667,
+    "AR_grand": 0.8804347826086956
+  },
+  "environnement": {
+    "python": "3.12.14",
+    "systeme": "Windows-11-10.0.26200-SP0",
+    "versions": {
+      "numpy": "2.2.6",
+      "scipy": "1.15.3",
+      "scikit-learn": "1.6.1",
+      "matplotlib": "3.10.3",
+      "Pillow": "11.2.1",
+      "torch": "2.7.1+cpu",
+      "torchvision": "0.22.1+cpu",
+      "pycocotools": "2.0.10"
+    },
+    "date_utc": "2026-11-09T18:25:47.070050+00:00"
+  },
+  "point_fonctionnement": {
+    "iou_min": 0.5,
+    "TP": 53,
+    "FP": 42,
+    "FN": 0,
+    "precision": 0.5578947368421052,
+    "rappel": 1.0,
+    "iou_moyen_vrais_positifs": 0.91186671324496
+  },
+  "duree_secondes": 111.09547040000325
+}

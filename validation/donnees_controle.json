@@ -1,0 +1,31 @@
+{
+  "n_images_archive": 170,
+  "n_masques_archive": 170,
+  "n_instances_archive_masques": 423,
+  "n_instances_archive_annotations_txt": 423,
+  "n_instances_page_web_historique": 345,
+  "explication": "Le readme de cette archive signale des annotations ajoutées ; voir added-object-list.txt.",
+  "sha256_archive": "9095a9613c95586f1c7f2a327d454833d16e0f5e17e5f83d35027ffd315b48e2",
+  "images_selectionnees_graine42": [
+    "FudanPed00014.png",
+    "FudanPed00016.png",
+    "FudanPed00022.png",
+    "FudanPed00033.png",
+    "FudanPed00068.png",
+    "PennPed00003.png",
+    "PennPed00011.png",
+    "PennPed00012.png",
+    "PennPed00027.png",
+    "PennPed00037.png",
+    "PennPed00044.png",
+    "PennPed00045.png",
+    "PennPed00046.png",
+    "PennPed00051.png",
+    "PennPed00057.png",
+    "PennPed00060.png",
+    "PennPed00068.png",
+    "PennPed00081.png",
+    "PennPed00083.png",
+    "PennPed00085.png"
+  ]
+}

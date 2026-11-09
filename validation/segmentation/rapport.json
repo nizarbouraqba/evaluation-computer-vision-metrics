@@ -1,0 +1,73 @@
+{
+  "projet": "segmentation",
+  "donnees": "Penn-Fudan",
+  "url_donnees": "https://www.cis.upenn.edu/~jshi/ped_html/PennFudanPed.zip",
+  "sha256_archive": "9095a9613c95586f1c7f2a327d454833d16e0f5e17e5f83d35027ffd315b48e2",
+  "n_images": 20,
+  "n_instances": 53,
+  "graine": 42,
+  "selection": "Tirage sans remise, numpy.default_rng, puis ordre alphabétique",
+  "modele": "MaskRCNN",
+  "poids": "MaskRCNN_ResNet50_FPN_Weights.COCO_V1",
+  "url_poids": "https://download.pytorch.org/models/maskrcnn_resnet50_fpn_coco-bf2d0c1e.pth",
+  "sha256_poids": "bf2d0c1efbc936eeee2bc95a48e80ebc86b891f61b0106485937fc29f9315fc0",
+  "appareil": "cpu",
+  "threads": 2,
+  "seuil_confiance": 0.5,
+  "seuil_minimum_modele_pour_ap": 0.001,
+  "max_detections_modele": 100,
+  "redimensionnement": {
+    "min_size": [
+      800
+    ],
+    "max_size": 1333
+  },
+  "coco": {
+    "AP_50_95": 0.7443881643324664,
+    "AP_50": 0.9384564647509811,
+    "AP_75": 0.8893056409657947,
+    "AP_petit": 0.6999999999999998,
+    "AP_moyen": 0.3544040118297544,
+    "AP_grand": 0.7748673105136206,
+    "AR_max1": 0.31320754716981136,
+    "AR_max10": 0.7943396226415095,
+    "AR_max100": 0.7943396226415095,
+    "AR_petit": 0.7,
+    "AR_moyen": 0.7666666666666666,
+    "AR_grand": 0.8
+  },
+  "environnement": {
+    "python": "3.12.14",
+    "systeme": "Windows-11-10.0.26200-SP0",
+    "versions": {
+      "numpy": "2.2.6",
+      "scipy": "1.15.3",
+      "scikit-learn": "1.6.1",
+      "matplotlib": "3.10.3",
+      "Pillow": "11.2.1",
+      "torch": "2.7.1+cpu",
+      "torchvision": "0.22.1+cpu",
+      "pycocotools": "2.0.10"
+    },
+    "date_utc": "2026-11-09T18:27:55.207563+00:00"
+  },
+  "seuil_masque": 0.5,
+  "semantique": {
+    "pixel_accuracy": 0.9544430853562478,
+    "iou_fond": 0.9440234541705044,
+    "iou_personne": 0.8033794993072898,
+    "miou": 0.8737014767388971,
+    "dice_personne": 0.8909710902401654,
+    "confusion_pixels": [
+      [
+        3006170,
+        143122
+      ],
+      [
+        35131,
+        728331
+      ]
+    ]
+  },
+  "duree_secondes": 128.0640590999974
+}

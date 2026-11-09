@@ -1,0 +1,24 @@
+{
+  "tests_metriques": {
+    "resultat": "9 passed",
+    "duree_secondes_observee": 0.8
+  },
+  "pip_check": "No broken requirements found.",
+  "notebook": {
+    "cellules_code_executees": 8,
+    "erreurs": 0
+  },
+  "classification": {
+    "partition_disjointe": true,
+    "apprentissage": 1347,
+    "test": 450
+  },
+  "penn_fudan": {
+    "images_evaluees": 20,
+    "instances_evaluees": 53,
+    "memes_images_detection_segmentation": true
+  },
+  "ap_recalculees_depuis_predictions": true,
+  "evaluation_complete_170_images_executee": false,
+  "github_modifie": false
+}

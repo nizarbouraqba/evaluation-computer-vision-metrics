@@ -1,0 +1,9 @@
+{
+  "classification_accuracy_test": 0.9777777777777777,
+  "classification_f1_macro_test": 0.9776411985388958,
+  "detection_images": 20,
+  "detection_box_AP_50_95": 0.8120532100874893,
+  "segmentation_mask_AP_50_95": 0.7443881643324664,
+  "segmentation_mIoU": 0.8737014767388971,
+  "segmentation_Dice_personne": 0.8909710902401654
+}

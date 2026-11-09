@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "image": "FudanPed00014.png",
+    "sha256_image": "462eff93c4c491fb20e1e01e5949dcc27b93d6421507a6454356578040c73ce6",
+    "sha256_masque": "891479c927fb79bad6188e72d58e93b15582d83a3c973c4255de1387aef4f3c6",
+    "instances": 1
+  },
+  {
+    "id": 2,
+    "image": "FudanPed00016.png",
+    "sha256_image": "3821e9ed61b299c3ca31f761f181e1791d898359406adb66fc66d65fa49a6388",
+    "sha256_masque": "e3582dff805a88c674c63edcd81bb400f6f4c37752b6f6da854ff91df76aab72",
+    "instances": 3
+  },
+  {
+    "id": 3,
+    "image": "FudanPed00022.png",
+    "sha256_image": "90b0d600f87345555e4264e55137389ddb8a75e847b1828d13e31de5f812c45e",
+    "sha256_masque": "29c50ec6d945e31fb5f36859fc2459d15fd91e782e80171d8b9769a764c44fb0",
+    "instances": 2
+  },
+  {
+    "id": 4,
+    "image": "FudanPed00033.png",
+    "sha256_image": "3257fc93e746e2258ff273e4110c3ab0ce1f5867f472a69acf536f585f9f4509",
+    "sha256_masque": "5eb707da2363147162534bee59c0bc576ef25499402ca92eb7ec1db636b139bb",
+    "instances": 1
+  },
+  {
+    "id": 5,
+    "image": "FudanPed00068.png",
+    "sha256_image": "5df539028a6f42d55efd0f35affc06551821372bda5f9d554bfcf62c691d7788",
+    "sha256_masque": "fb1411584ec003761418ce0931fd7f390bada46508355ce713fd9ba8189a5d06",
+    "instances": 1
+  },
+  {
+    "id": 6,
+    "image": "PennPed00003.png",
+    "sha256_image": "4e4043c81ffc66afa3c18745af39c29fff5237c3c635bc4e84d912ce7918dcbb",
+    "sha256_masque": "7ef9617f6ea94956de57d18aa207f84c8c0ecf6d52fc4f60f2cc200cff3d02d3",
+    "instances": 3
+  },
+  {
+    "id": 7,
+    "image": "PennPed00011.png",
+    "sha256_image": "4378bb3d4a611b7f2668597c8dd29a7d30b18dcd324bb99b8286896ec9ce084f",
+    "sha256_masque": "5f8ffcf67f605ab9a7ed4174352c99262a8ba41253806d6893086fc2592e4547",
+    "instances": 2
+  },
+  {
+    "id": 8,
+    "image": "PennPed00012.png",
+    "sha256_image": "4f22a9e5d708bd17ee68ca7ffcd7e4630ad94fee53ea95b65d9664ae7489e0c0",
+    "sha256_masque": "9da19f3e69424c8fb86cfd170e887ae47a7f4233e3636eea28a7a5157ebe4062",
+    "instances": 1
+  },
+  {
+    "id": 9,
+    "image": "PennPed00027.png",
+    "sha256_image": "24ff119f34cdee0759782417cc2ef0d65fb194d4bc36f424bb9e6d73b94243ac",
+    "sha256_masque": "75eab56d91519fa23d79b745583688816fe78cb52471aff6426a97d7287918d2",
+    "instances": 3
+  },
+  {
+    "id": 10,
+    "image": "PennPed00037.png",
+    "sha256_image": "54a2b4caeff8b47e38160c8cc93eed14f341e5189dbad2ad29f90a238645925a",
+    "sha256_masque": "5c44c241f2dcb9965e8d53637bee7bd282d3fff300747512f6d7e189f6e1350d",
+    "instances": 1
+  },
+  {
+    "id": 11,
+    "image": "PennPed00044.png",
+    "sha256_image": "498ed8b3760a372b73c3601a737e11c989805ef6bf74ba87bd293a28ac156009",
+    "sha256_masque": "abcb241d34cd7b6ea54b5773897f541c6c97f9d6e9662bb42feb658baf493f35",
+    "instances": 4
+  },
+  {
+    "id": 12,
+    "image": "PennPed00045.png",
+    "sha256_image": "ebe047a39d1d75871cc07cc83b9ad45715aafb7799d1a648aa9e340690690f46",
+    "sha256_masque": "55230f5246aeb48c8859d9145a8dc09278eafcf732680ca864868bd5f9390a46",
+    "instances": 6
+  },
+  {
+    "id": 13,
+    "image": "PennPed00046.png",
+    "sha256_image": "c98f12e7d68d32fd623a5a9607588a15b678371045849a6ddf3c268f81a40e9e",
+    "sha256_masque": "e0509b206bd454e5b2484cd2e074971dfd37b506a8c5381286bb6a4615f95bfc",
+    "instances": 3
+  },
+  {
+    "id": 14,
+    "image": "PennPed00051.png",
+    "sha256_image": "f3e251809bcdee9e21b26dbce82170ddd07a7dde77c2fd0a0bbb54b13957cb65",
+    "sha256_masque": "7705c426007f8f0a70dbc843e7fd9b45e8ea05cebbee1cd2aee2077be93a03a3",
+    "instances": 4
+  },
+  {
+    "id": 15,
+    "image": "PennPed00057.png",
+    "sha256_image": "7fa9f32b67b00a9e03bf1c50bb98a53deaf567294713053c355aed36f70a8dd4",
+    "sha256_masque": "80482a84405ea121a22efaeb0a80645187ce9cb6a90c14530673e081ed2366e2",
+    "instances": 2
+  },
+  {
+    "id": 16,
+    "image": "PennPed00060.png",
+    "sha256_image": "939cd2ab0d63c3cb15bd1155071fe4e117140172893156e6b8b9c05a0c4a1cb8",
+    "sha256_masque": "0fb9a73fd660001f61c6ee2864ca9049b444f59da260fe1ff80819d0c3528544",
+    "instances": 5
+  },
+  {
+    "id": 17,
+    "image": "PennPed00068.png",
+    "sha256_image": "b014e256a71271a51f8ae14cdad1c6aa07f19163e415789edb22838c05fcbaa7",
+    "sha256_masque": "fdff16f0cda7bb1a9054b62960d61c5cc86d1648107c607e04899a6344890b41",
+    "instances": 4
+  },
+  {
+    "id": 18,
+    "image": "PennPed00081.png",
+    "sha256_image": "b9cf27aff00b5d3c745cfde35b77a0e9d1966291cfa462ffe73d7ac4cb190f24",
+    "sha256_masque": "e62361e33410c4f06d1cf6307f6082d2a427ede913f686e9f62501d3caebc6c4",
+    "instances": 3
+  },
+  {
+    "id": 19,
+    "image": "PennPed00083.png",
+    "sha256_image": "2cd01d7951082b3786a98e5002b89f53af0c3042e9434107a9bb9eba5d801fe6",
+    "sha256_masque": "e728dfbc1c4fb380dc4a888c37cd504ed3a41b63f737534475db6acd374cef35",
+    "instances": 2
+  },
+  {
+    "id": 20,
+    "image": "PennPed00085.png",
+    "sha256_image": "0e9a2f0210b3f1de793ac00b5d8e3a2accfee2e4c15d97c1d4460c651c0890fd",
+    "sha256_masque": "7d0387b6b5a26060fcd1821acba5ca3d7288aab2bdf19cf4cbcbd1dda346b1b5",
+    "instances": 2
+  }
+]
