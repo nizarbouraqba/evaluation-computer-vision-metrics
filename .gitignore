@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Ne jamais committer de données personnelles ou credentials
+.env
+*.pem
